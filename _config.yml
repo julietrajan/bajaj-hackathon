@@ -1,0 +1,22 @@
+# Site details (shown in the page header and browser tab)
+title: Smart EMI Assistant Hackathon
+description: Bajaj Finserv × GitHub Copilot hackathon. Build, collaborate and ship with GitHub and GitHub Copilot.
+
+# Look and feel (a GitHub Pages theme that needs no installation)
+theme: minima
+
+# Markdown: use GitHub-flavoured Markdown so tables, checklists
+# and section links work the same way they do on GitHub
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Extras supported by GitHub Pages
+plugins:
+  - jekyll-seo-tag        # adds page titles and descriptions for link previews
+  - jekyll-relative-links # lets you link to other .md files, e.g. leaderboard.md
+
+# Keep these files off the published site
+exclude:
+  - README.md
