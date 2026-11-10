@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Smart EMI Assistant Hackathon
+title: Smart EMI Agent Hackathon
 description: Bajaj Finserv × GitHub Copilot Hackathon — build, collaborate and ship with GitHub and GitHub Copilot
 ---
 
-# 🏦 Smart EMI Assistant Hackathon
+# 🏦 Smart EMI Agent Hackathon
 
 **Bajaj Finserv × GitHub Copilot** · 2-day team hackathon
 
@@ -45,7 +45,7 @@ Many customers hold more than one loan at a time: a personal loan, a consumer du
 
 Today, answering these questions often means a call to customer service or a branch visit.
 
-**Your challenge:** build a **Smart EMI Assistant** that lets a customer answer these questions in seconds.
+**Your challenge:** build a **Smart EMI Agent** that lets a customer answer these questions in seconds.
 
 ---
 
@@ -350,4 +350,4 @@ Before code freeze, make sure your repo has:
 
 ---
 
-<sub>Smart EMI Assistant Hackathon · Bajaj Finserv × Microsoft · All data used in this hackathon is fictional.</sub>
+<sub>Smart EMI agent Hackathon · Bajaj Finserv × Microsoft · All data used in this hackathon is fictional.</sub>
